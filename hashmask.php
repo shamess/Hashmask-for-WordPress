@@ -2,7 +2,7 @@
 /**
 Plugin Name: Hashmask for WordPress
 Plugin URI: http://lab.arc90.com/2009/07/hashmask.php
-Description: Adds arc90's hashmask to the admin log in feild.
+Description: Adds arc90's hashmask to the admin log in field.
 Author: Shamess
 Version: 0.9
 Author URI: http://shamess.info/business/
